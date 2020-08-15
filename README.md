@@ -1,3 +1,8 @@
+# Twitter-clone
+
+#### create .env file and fill the required field showed in .env.example file
+#### and also put projectId in src/firestore/firestore.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
